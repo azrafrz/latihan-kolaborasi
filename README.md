@@ -1,4 +1,4 @@
 # Latihan Kolaborasi
 
-**Belajar squashing**
+**Belajar squashing**<br> 
 20 Februari 2024
