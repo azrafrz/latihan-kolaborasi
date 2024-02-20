@@ -1,1 +1,3 @@
 # Latihan Kolaborasi
+
+**Belajar squashing**
